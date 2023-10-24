@@ -1,5 +1,5 @@
 # MicroLanguageModel
-This is a rough first exploratory experiment with language models, using a feedforward neural network, more specifically a WaveNet variant [WaveNetBase.ipynb](WaveNetBase.ipynb), to produce text in the same style as the Iliad by Homer [ily.txt](ily.txt).
+This is a first exploratory experiment with language models, using a feedforward neural network, more specifically a WaveNet variant [WaveNetBase.ipynb](WaveNetBase.ipynb), to produce text in the same style as the Iliad by Homer [ily.txt](ily.txt).
 
 This is an excerpt produced by the model:
 > Measing wourselves thy daring unwilds friends,
